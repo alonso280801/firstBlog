@@ -1,2 +1,3 @@
 Hoy hablaremos de la historia 
 Mi nombre es Alonso 
+Estoy aprendiendo Git en Linux 
